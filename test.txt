@@ -1,0 +1,9 @@
+/logis9-webapps/shared/views/components/shipment/list/shipments.scss
+/logis9-webapps/elysium/controllers/shipments/filteredBookings.jsx
+/logis9-webapps/elysium/controllers/shipments/shipmentsApiServices.jsx
+/logis9-webapps/shared/util/bookingStatusManager.jsx
+/logis9-webapps/shared/views/components/shipment/list/shipmentsComponent.jsx
+/logis9-webapps/shared/views/components/shipment/list/shipmentsComponent.jsx
+/logis9-webapps/shared/views/components/shipment/list/shipmentsHeader/statusFilters/statusFilterContainer.jsx
+/logis9-webapps/shared/views/components/shipment/list/shipmentsHeader/statusFilters/statusFilterView.jsx
+/logis9-webapps/shared/views/components/shipment/list/shipmentsHeader/statusFilters/filters/filterDate.jsx
